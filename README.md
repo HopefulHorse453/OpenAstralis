@@ -3,7 +3,11 @@ Now introducing Astralis Client — why settle for one powerhouse when you can g
 
 # Special thanks to
 Kawase - Pasting Astralis
+
 Prabhat Jimbo David - Galaxy Strafe
+
 the billionare - The Rotation Manager
+
 CCBlueX - The Backtrack
+
 Minecraft - Minecraft
