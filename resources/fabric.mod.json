@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "astralis",
+	"version": "${version}",
+	"name": "Astralis",
+	"description": "Astralis <3",
+	"authors": [
+		"Kawase, Ihassedich & Badaiim"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/astralis/icon.png",
+	"environment": "*",
+	"mixins": [
+		"astralis.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

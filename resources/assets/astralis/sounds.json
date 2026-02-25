@@ -1,0 +1,11 @@
+{
+  "effects.dark": {
+    "sounds": ["effects/dark"]
+  },
+  "effects.neverlose": {
+    "sounds": ["effects/neverlose"]
+  },
+  "effects.skeet": {
+    "sounds": ["effects/skeet"]
+  }
+}
